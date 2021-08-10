@@ -140,7 +140,7 @@ p{
 #home-info .info-img{
   float: left;
   width: 50%;
-  background:url (code img.jpg) no-repeat;
+  background: code img.jpg;
   min-height:100% ;
 }
 
